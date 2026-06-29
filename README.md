@@ -232,9 +232,8 @@ return BetterThanYesterday;
 
 <div align="center">
 
-### 💜 "The quieter you become, the more you are able to observe."
+### 💜 " IN A WORLD WHERE DATA IS EVERYTHING, PROTECTING IT IS THE KEY TO OUR FUTURE. "
 
 ⭐ Thanks for visiting my profile.
 
 </div>
-````
