@@ -191,7 +191,6 @@ Red Teaming             ██████░░░░░░   55%
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions to generate the snake animation.
 
 <p align="center">
 
